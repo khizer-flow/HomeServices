@@ -61,7 +61,7 @@ A modern, full-stack home services application built for the Saudi market. This 
 |:---:|:---:|:---:|:---:|
 | ![Welcome](./screenshots/welcome.jpeg) | ![Home](./screenshots/home.jpeg) | ![Booking](./screenshots/booking.jpeg) | ![Tracking](./screenshots/tracking.jpeg) |
 
-> *Note: Place your screenshots in a `screenshots` folder in the root directory.*
+
 
 ## 🛠️ Configuration
 - **Network**: The app uses `src/config.js` to define the backend URL. Ensure `API_URL` points to your machine's IP address (e.g., `http://192.168.1.12:5000`) if running locally.
