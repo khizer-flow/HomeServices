@@ -59,7 +59,7 @@ A modern, full-stack home services application built for the Saudi market. This 
 
 | Welcome Screen | Home Screen | Booking Flow | Tracking |
 |:---:|:---:|:---:|:---:|
-| ![Welcome](./screenshots/welcome.png) | ![Home](./screenshots/home.png) | ![Booking](./screenshots/booking.png) | ![Tracking](./screenshots/tracking.png) |
+| ![Welcome](./screenshots/welcome.jpeg) | ![Home](./screenshots/home.jpeg) | ![Booking](./screenshots/booking.jpeg) | ![Tracking](./screenshots/tracking.jpeg) |
 
 > *Note: Place your screenshots in a `screenshots` folder in the root directory.*
 
